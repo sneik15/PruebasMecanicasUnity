@@ -1,0 +1,14 @@
+{
+  "Berenjena": {
+    "TiempoCrecimiento": 7,
+    "Tipo": "NORMAL",
+    "Estaciones": [
+      "VERANO",
+      "PRIMAVERA"
+    ],
+    "DropMin": 2,
+    "DropMax": 5,
+    "NombreFases": "BerenjenaFase",
+    "NombreDrop": "Berenjena"
+  }
+}

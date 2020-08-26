@@ -1,0 +1,128 @@
+{
+  "Arbol": {
+    "Rama": {
+      "Probabilidad": 100,
+      "ArbolPeque": 3,
+      "ArbolMediano": 5,
+      "ArbolGrande": 8
+    },
+    "MaderaSinRef": {
+      "Probabilidad": 100,
+      "ArbolPeque": 2,
+      "ArbolMediano": 3,
+      "ArbolGrande": 5
+    }
+  },
+  "AguaRio": {
+    "PecesPeque": {
+      "ProbabilidadIni": 1,
+      "ProbabilidadFin": 25,
+      "PezPruebaP": {
+        "Cebo": "Gusanos",
+        "Probabilidad": 100,
+        "ProbabilidadConC": 100,
+        "Nombre": "PezPruebaP"
+      }
+    },
+    "PecesMedi": {
+      "ProbabilidadIni": 26,
+      "ProbabilidadFin": 55,
+      "PezPruebaM": {
+        "Cebo": "Gusanos",
+        "Probabilidad": 100,
+        "ProbabilidadConC": 100,
+        "Nombre": "PezPruebaM"
+      }
+    },
+    "PecesGran": {
+      "ProbabilidadIni": 56,
+      "ProbabilidadFin": 75,
+      "PezPruebaG": {
+        "Cebo": "Gusanos",
+        "Probabilidad": 100,
+        "ProbabilidadConC": 100,
+        "Nombre": "PezPruebaG"
+      }
+    },
+    "Basura": {
+      "ProbabilidadIni": 76,
+      "ProbabilidadFin": 85,
+      "Neumatico": {
+        "Probabilidad": 100,
+        "Nombre": "Neumatico"
+      }
+    },
+    "Artefactos": {
+      "ProbabilidadIni": 86,
+      "ProbabilidadFin": 90,
+      "ArtefactoPrueba": {
+        "Probabilidad": 100,
+        "Nombre": "ArtefactoPrueba"
+      }
+    },
+    "Recursos": {
+      "ProbabilidadIni": 91,
+      "ProbabilidadFin": 100,
+      "Rama": {
+        "Probabilidad": 100,
+        "Nombre": "Rama"
+      }
+    }
+  },
+  "AguaMar": {
+    "PecesPeque": {
+      "ProbabilidadIni": 1,
+      "ProbabilidadFin": 25,
+      "PezPruebaP": {
+        "Cebo": "Gusanos",
+        "Probabilidad": 100,
+        "ProbabilidadConC": 100,
+        "Nombre": "PezPruebaP"
+      }
+    },
+    "PecesMedi": {
+      "ProbabilidadIni": 26,
+      "ProbabilidadFin": 55,
+      "PezPruebaM": {
+        "Cebo": "Gusanos",
+        "Probabilidad": 100,
+        "ProbabilidadConC": 100,
+        "Nombre": "PezPruebaM"
+      }
+    },
+    "PecesGran": {
+      "ProbabilidadIni": 56,
+      "ProbabilidadFin": 75,
+      "PezPruebaG": {
+        "Cebo": "Gusanos",
+        "Probabilidad": 100,
+        "ProbabilidadConC": 100,
+        "Nombre": "PezPruebaG"
+      }
+    },
+    "Basura": {
+      "ProbabilidadIni": 76,
+      "ProbabilidadFin": 85,
+      "Neumatico": {
+        "Probabilidad": 100,
+        "Nombre": "Neumatico"
+      }
+    },
+    "Artefactos": {
+      "ProbabilidadIni": 86,
+      "ProbabilidadFin": 90,
+      "ArtefactoPrueba": {
+        "Probabilidad": 100,
+        "Nombre": "ArtefactoPrueba"
+      }
+    },
+    "Recursos": {
+      "ProbabilidadIni": 91,
+      "ProbabilidadFin": 100,
+      "Rama": {
+        "Probabilidad": 100,
+        "Nombre": "Rama"
+      }
+    }
+  }
+}

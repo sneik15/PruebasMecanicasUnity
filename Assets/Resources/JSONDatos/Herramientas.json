@@ -1,0 +1,44 @@
+{
+  "Hacha": {
+    "Piedra": {
+      "Golpes": {
+        "ArbolPeque": 4,
+        "ArbolMediano": 6,
+        "ArbolGrande": 8
+      }
+    },
+    "Bronce": {
+      "Golpes": {
+        "ArbolPeque": 3,
+        "ArbolMediano": 4,
+        "ArbolGrande": 6
+      }
+    },
+    "Hierro": {
+      "Golpes": {
+        "ArbolPeque": 2,
+        "ArbolMediano": 3,
+        "ArbolGrande": 4
+      }
+    }
+  },
+  "CanyaPescar": {
+    "Madera": {
+      "Tiempo": 60
+    },
+    "Hierro": {
+      "Tiempo": 45
+    },
+    "Especial": {
+      "Tiempo": 30
+    }
+  },
+  "Regadera": {
+	"Madera": {
+      "Capacidad": 30
+    },
+    "Hierro": {
+      "Capacidad": 60
+    }
+  }
+}

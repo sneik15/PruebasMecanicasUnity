@@ -1,0 +1,37 @@
+{
+  "Items": {
+    "TiempoDesaparicionS": 300
+  },
+  "Cofres": {
+    "Espacios": {
+      "CofresMedianos": 36,
+      "CofresGrandes": 63,
+      "CofresMuyGrandes": 99
+    }
+  },
+  "Tiempo": {
+    "PRIMAVERA": {
+      "DIAS": 30,
+      "DIA": 600,
+      "NOCHE": 600
+    },
+    "VERANO": {
+      "DIAS": 30,
+      "DIA": 780,
+      "NOCHE": 420
+    },
+    "OTONYO": {
+      "DIAS": 30,
+      "DIA": 600,
+      "NOCHE": 600
+    },
+    "INVIERNO": {
+      "DIAS": 30,
+      "DIA": 420,
+      "NOCHE": 780
+    }
+  },
+  "Cultivos": {
+    "DiasEstropeoCultivos": 15
+  }
+}

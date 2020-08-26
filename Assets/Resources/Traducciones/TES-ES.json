@@ -1,0 +1,20 @@
+{
+	"CambioIdioma": "Debe reiniciar el juego para que el cambio de idioma se aplique",
+	"MSinRefN": "Madera sin refinar",
+	"MSinRefD": "Madera sin refinar",
+	"RamaN": "Rama",
+	"RamaD": "Rama recién extraída de un árbol",
+	"HachaPiedraN": "Hacha de piedra",
+	"HachaPiedraD": "Hacha de piedra",
+	"RegaderaHierroN": "Regadera de hierro",
+	"RegaderaHierroD": "Regadera de hierro",
+	"AzadaPiedraN": "Azada de piedra",
+	"AzadaPiedraD": "Azada de piedra",
+	"RecogerObj": "Presiona F para recoger el objeto",
+	"AbrCofre": "Presiona F para abrir el cofre",
+	"PezPicado": "Ha picado!!!",
+	"BerenjenaN": "Berenjena",
+	"BerenjenaD": "Berenjena",
+	"SemillaBerenjenaN": "Semilla de berenjena",
+	"SemillaBerenjenaD": "Semilla de berenjena"
+}
